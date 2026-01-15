@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there , I'm Sarah 👋
+
+I'm currently a computer science major at Florida International University. I am interested in finding solutions to environmental and ecological issues utilizing data science tools and machine learning. 
+
+**Skills** : Java 
+
+**Currently Learning** : Pyhton
+
+**Projects** : N/A
+
+**Career Goals** : participate in a data science internship Summer 2026 
+
 
 <!--
 **sgonzalez42/sgonzalez42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
