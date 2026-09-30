@@ -1,12 +1,12 @@
 ## Hi there , I'm Sarah Gonzalez!👋
 
-I'm currently a computer science major at Florida International University. My goal is to find solutions to environmental and ecological issues by utilizing data science and AI/ML. Currently, I am building up my skills to find a internship in data science for summer of 2026. My long term goal is to pursue a master's degree in Environmental Studies and merge my background in computer science with environmental science. 
+I'm currently a computer science major at Florida International University. My goal is to find solutions to environmental and ecological issues. My long term goal is to pursue a master's degree in Environmental Studies and merge my background in computer science with environmental science. 
 
-**Skills** : C and Java
+**Skills** : Java, Python
 
-**Learning** : Python, R, Git, and Github
+**Learning** : R, Arduino, GIS
 
-**Projects I'm working on** : Rock,Paper,Scissors game program(Python) and Scuba Diving log program(Python)
+**Projects I'm working on** : Mosquito-spread disease dashboard 
 
 
 
